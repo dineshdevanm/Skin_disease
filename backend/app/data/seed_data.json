@@ -1,0 +1,289 @@
+[
+  {
+    "id": "mel",
+    "type": "disease",
+    "abbr": "MEL",
+    "name": "Melanoma",
+    "category": "Malignant",
+    "keywords": ["melanoma", "mel", "skin cancer", "malignant"],
+    "summary": "A serious skin cancer arising from pigment-producing cells (melanocytes). Can spread to other parts of the body if not caught early.",
+    "keyPoints": [
+      "Often identified using the 'ABCDE' rule: Asymmetry, Border irregularity, Color variation, Diameter > 6mm, Evolving over time.",
+      "Usually irregular or asymmetrical in shape and colour, unlike a harmless mole.",
+      "Early detection and removal greatly improve outcomes."
+    ],
+    "references": [
+      { "label": "DermNet NZ — Melanoma", "url": "https://dermnetnz.org/topics/melanoma" },
+      { "label": "DermNet NZ — ABCDE of melanoma", "url": "https://dermnetnz.org/topics/abcdes-of-melanoma" }
+    ],
+    "treatment": {
+      "firstAid": [
+        "Don't attempt to treat, cut, shave, or remove the lesion yourself.",
+        "Protect the area from further sun exposure and avoid picking, scratching, or irritating it.",
+        "Take a clear photo and note any changes in size, shape, color, or bleeding to show your doctor."
+      ],
+      "seekCare": "Melanoma needs prompt professional diagnosis and treatment — usually surgical removal, and sometimes additional therapy depending on stage. See a dermatologist or visit a hospital/urgent care as soon as possible. Do not delay or attempt home treatment.",
+      "references": [
+        { "label": "American Cancer Society — Surgery for melanoma", "url": "https://www.cancer.org/cancer/types/melanoma-skin-cancer/treating/surgery.html" }
+      ]
+    }
+  },
+  {
+    "id": "nv",
+    "type": "disease",
+    "abbr": "NV",
+    "name": "Melanocytic Nevus",
+    "category": "Benign",
+    "keywords": ["nevus", "naevus", "mole", "nv"],
+    "summary": "Commonly known as a mole — a benign cluster of pigment-producing cells (melanocytes). Almost everyone has at least one.",
+    "keyPoints": [
+      "Can be present at birth (congenital) or appear later in life (acquired).",
+      "Usually round or oval, symmetrical, and evenly coloured.",
+      "Monitor for changes in size, shape, or colour over time."
+    ],
+    "references": [
+      { "label": "DermNet NZ — Melanocytic naevi (moles)", "url": "https://dermnetnz.org/topics/melanocytic-naevus" }
+    ],
+    "treatment": {
+      "firstAid": [
+        "No treatment is usually needed for a stable, normal-looking mole.",
+        "Avoid picking at it, and protect it from sunburn like the rest of your skin."
+      ],
+      "seekCare": "See a dermatologist if the mole changes in size, shape, or color, starts itching or bleeding, or if you develop a new mole after age 30 — evaluation may include removal for biopsy just to confirm it is benign.",
+      "references": [
+        { "label": "American Academy of Dermatology — When is a mole a problem?", "url": "https://www.aad.org/public/diseases/a-z/when-is-a-mole-a-problem" }
+      ]
+    }
+  },
+  {
+    "id": "bcc",
+    "type": "disease",
+    "abbr": "BCC",
+    "name": "Basal Cell Carcinoma",
+    "category": "Malignant",
+    "keywords": ["basal cell carcinoma", "bcc", "skin cancer"],
+    "summary": "The most common type of skin cancer, arising in the basal (lower) layer of the epidermis. Grows slowly and rarely spreads to other parts of the body.",
+    "keyPoints": [
+      "Often appears as a skin-coloured plaque or nodule, sometimes with visible blood vessels.",
+      "Most common on habitually sun-exposed skin such as the face.",
+      "Highly treatable, especially when caught early."
+    ],
+    "references": [
+      { "label": "DermNet NZ — Basal cell carcinoma", "url": "https://dermnetnz.org/topics/basal-cell-carcinoma" }
+    ],
+    "treatment": {
+      "firstAid": [
+        "Keep the area clean and protected from further sun exposure and trauma.",
+        "Avoid picking at any scabbing, crusting, or bleeding on the lesion."
+      ],
+      "seekCare": "BCC is highly treatable, typically with minor surgery, cryotherapy, or topical therapy, but it needs a dermatologist to diagnose it first. Book an appointment soon — it is rarely an emergency, but should not be ignored.",
+      "references": [
+        { "label": "DermNet NZ — Basal cell carcinoma", "url": "https://dermnetnz.org/topics/basal-cell-carcinoma" }
+      ]
+    }
+  },
+  {
+    "id": "ak",
+    "type": "disease",
+    "abbr": "AK",
+    "name": "Actinic Keratosis",
+    "category": "Pre-cancerous",
+    "keywords": ["actinic keratosis", "solar keratosis", "ak", "akiec"],
+    "summary": "A rough, scaly patch on the skin caused by cumulative sun (UV) damage. Considered pre-cancerous because it can occasionally progress to squamous cell carcinoma.",
+    "keyPoints": [
+      "Most common on sun-exposed areas: face, ears, scalp, and the backs of the hands.",
+      "A patient with more than 10 actinic keratoses has roughly a 10–15% risk of developing SCC.",
+      "Several effective treatments exist, including cryotherapy and topical therapy."
+    ],
+    "references": [
+      { "label": "DermNet NZ — Actinic keratosis", "url": "https://dermnetnz.org/topics/actinic-keratosis" }
+    ],
+    "treatment": {
+      "firstAid": [
+        "Apply sunscreen daily and avoid further sun exposure on the patch.",
+        "Don't pick, scratch, or try to peel off the scaly area."
+      ],
+      "seekCare": "See a dermatologist for evaluation — treatments like cryotherapy, topical creams, or photodynamic therapy are simple and effective, and treating it early helps prevent progression to squamous cell carcinoma.",
+      "references": [
+        { "label": "DermNet NZ — Actinic keratosis", "url": "https://dermnetnz.org/topics/actinic-keratosis" }
+      ]
+    }
+  },
+  {
+    "id": "bkl",
+    "type": "disease",
+    "abbr": "BKL",
+    "name": "Benign Keratosis",
+    "category": "Benign",
+    "keywords": ["benign keratosis", "seborrhoeic keratosis", "seborrheic keratosis", "bkl"],
+    "summary": "A group of harmless, wart-like growths — most commonly seborrhoeic keratosis — recognisable by their sharply demarcated, greasy, 'stuck-on' appearance.",
+    "keyPoints": [
+      "Extremely common: over 90% of adults over 60 have at least one.",
+      "Not related to sun exposure in the way actinic keratosis is.",
+      "Treatment is usually unnecessary but can be done for cosmetic reasons."
+    ],
+    "references": [
+      { "label": "DermNet NZ — Seborrhoeic keratosis", "url": "https://dermnetnz.org/topics/seborrhoeic-keratosis" }
+    ],
+    "treatment": {
+      "firstAid": [
+        "No urgent action needed for a typical stuck-on, warty growth.",
+        "Avoid scratching or trying to peel it off, which can cause irritation or bleeding."
+      ],
+      "seekCare": "Usually harmless and treatment is optional. Get any new, changing, itchy, or bleeding spot checked by a dermatologist to confirm it isn't something else, such as melanoma.",
+      "references": [
+        { "label": "DermNet NZ — Seborrhoeic keratosis", "url": "https://dermnetnz.org/topics/seborrhoeic-keratosis" }
+      ]
+    }
+  },
+  {
+    "id": "df",
+    "type": "disease",
+    "abbr": "DF",
+    "name": "Dermatofibroma",
+    "category": "Benign",
+    "keywords": ["dermatofibroma", "fibrous histiocytoma", "df"],
+    "summary": "A common, firm, benign nodule made of fibrous tissue, most often found on the legs. Also known as a fibrous histiocytoma.",
+    "keyPoints": [
+      "Typically 0.5–1.5 cm in diameter, tan to brown in colour.",
+      "Characteristic 'dimple sign' — the surface dimples inward when the nodule is squeezed.",
+      "Harmless and usually left untreated unless it becomes symptomatic."
+    ],
+    "references": [
+      { "label": "DermNet NZ — Dermatofibroma", "url": "https://dermnetnz.org/topics/dermatofibroma" }
+    ],
+    "treatment": {
+      "firstAid": ["No home treatment is needed.", "Avoid squeezing or picking at it."],
+      "seekCare": "Dermatofibromas are benign and are usually just left alone. See a dermatologist if it changes shape or color, grows quickly, or becomes painful, so they can confirm the diagnosis.",
+      "references": [
+        { "label": "DermNet NZ — Dermatofibroma", "url": "https://dermnetnz.org/topics/dermatofibroma" }
+      ]
+    }
+  },
+  {
+    "id": "vasc",
+    "type": "disease",
+    "abbr": "VASC",
+    "name": "Vascular Lesion",
+    "category": "Benign",
+    "keywords": ["vascular lesion", "cherry angioma", "hemangioma", "vasc"],
+    "summary": "Benign lesions formed by blood vessels, such as cherry angiomas — small, common, red-to-purple papules made of clustered capillaries.",
+    "keyPoints": [
+      "Cherry angiomas increase markedly in number from around age 40 onward.",
+      "Appear as firm red, blue, or purple papules, typically 0.1–1 cm.",
+      "Not dangerous; removal is only for cosmetic reasons if desired."
+    ],
+    "references": [
+      { "label": "DermNet NZ — Cherry angioma", "url": "https://dermnetnz.org/topics/cherry-angioma" }
+    ],
+    "treatment": {
+      "firstAid": [
+        "No first aid is needed for a typical cherry angioma.",
+        "If it bleeds after a knock or scratch, apply gentle pressure with a clean cloth until it stops."
+      ],
+      "seekCare": "These are benign, so treatment (laser, cryotherapy, or electrosurgery) is optional and usually cosmetic. See a dermatologist if a lesion appears suddenly, changes rapidly, or bleeds without an obvious cause.",
+      "references": [
+        { "label": "DermNet NZ — Cherry angioma", "url": "https://dermnetnz.org/topics/cherry-angioma" }
+      ]
+    }
+  },
+  {
+    "id": "scc",
+    "type": "disease",
+    "abbr": "SCC",
+    "name": "Squamous Cell Carcinoma",
+    "category": "Malignant",
+    "keywords": ["squamous cell carcinoma", "scc", "skin cancer"],
+    "summary": "The second most common type of skin cancer, arising from keratin-producing cells in the epidermis. Usually related to cumulative UV exposure.",
+    "keyPoints": [
+      "Often looks like a scaly or crusty lump that enlarges over time, or a sore that will not heal.",
+      "Can occasionally spread (metastasise) if left untreated, unlike basal cell carcinoma.",
+      "A prior actinic keratosis, BCC, or melanoma is a strong risk factor."
+    ],
+    "references": [
+      { "label": "DermNet NZ — Cutaneous squamous cell carcinoma", "url": "https://dermnetnz.org/topics/cutaneous-squamous-cell-carcinoma" }
+    ],
+    "treatment": {
+      "firstAid": [
+        "Keep the area clean and covered, and protect it from further sun exposure.",
+        "Don't pick at any crusting, or try to treat it with home remedies."
+      ],
+      "seekCare": "SCC can occasionally spread if left untreated, so see a dermatologist or visit a hospital promptly. Treatment ranges from minor surgery to topical therapy, depending on how early it is caught.",
+      "references": [
+        { "label": "Skin Cancer Foundation — SCC treatment options", "url": "https://www.skincancer.org/skin-cancer-information/squamous-cell-carcinoma/scc-treatment-options/" }
+      ]
+    }
+  },
+  {
+    "id": "abcde-rule",
+    "type": "topic",
+    "question": "What is the ABCDE rule for checking moles?",
+    "keywords": ["abcde", "rule", "check mole", "checking moles", "warning signs", "signs of melanoma"],
+    "answer": "The ABCDE rule helps spot moles that might be melanoma: Asymmetry (one half looks different from the other), Border irregularity, Color that varies within the same mole, Diameter greater than about 6mm, and Evolving — any change in size, shape, or color over time. A mole with several of these features should be checked by a dermatologist.",
+    "references": [
+      { "label": "DermNet NZ — ABCDE of melanoma", "url": "https://dermnetnz.org/topics/abcdes-of-melanoma" }
+    ]
+  },
+  {
+    "id": "sun-protection",
+    "type": "topic",
+    "question": "How can I protect my skin from the sun?",
+    "keywords": ["sun protection", "sunscreen", "uv", "sun damage", "spf", "protect skin"],
+    "answer": "UV exposure is the main cause of most skin cancers and accelerates skin ageing. Effective protection includes using a broad-spectrum sunscreen (reapplied roughly every 2 hours), wearing sun-protective clothing, seeking shade during peak UV hours, and avoiding tanning beds.",
+    "references": [
+      { "label": "DermNet NZ — Sun protection", "url": "https://dermnetnz.org/topics/sun-protection" }
+    ]
+  },
+  {
+    "id": "when-to-see-dermatologist",
+    "type": "topic",
+    "question": "When should I see a dermatologist about a mole or spot?",
+    "keywords": ["see a dermatologist", "when to see", "doctor", "mole problem", "worried about a mole", "new mole"],
+    "answer": "See a dermatologist if a mole looks different from your others, is itching, bleeding, or changing in size, shape, or color — or if you develop a new mole after age 30. When in doubt, it's always worth getting it checked.",
+    "references": [
+      { "label": "American Academy of Dermatology — When is a mole a problem?", "url": "https://www.aad.org/public/diseases/a-z/when-is-a-mole-a-problem" }
+    ]
+  },
+  {
+    "id": "self-exam-frequency",
+    "type": "topic",
+    "question": "How often should I do a skin self-exam?",
+    "keywords": ["self exam", "self-exam", "how often", "check my skin", "skin check frequency"],
+    "answer": "The Skin Cancer Foundation recommends a head-to-toe self-examination of your skin about once a month, plus a full-body exam by a dermatologist at least once a year. If you have a personal or family history of skin cancer, or a lot of moles, self-exams and dermatologist visits should generally be more frequent.",
+    "references": [
+      { "label": "Skin Cancer Foundation — Self-Exams", "url": "https://www.skincancer.org/early-detection/self-exams/" }
+    ]
+  },
+  {
+    "id": "risk-factors",
+    "type": "topic",
+    "question": "What are the risk factors for skin cancer?",
+    "keywords": ["risk factors", "who gets skin cancer", "causes of skin cancer", "risk"],
+    "answer": "Key risk factors include cumulative UV exposure and sunburn history (especially in childhood), fair skin, a family or personal history of skin cancer, having many moles, and immune suppression. UV radiation is the single biggest environmental risk factor for most skin cancers.",
+    "references": [
+      { "label": "American Cancer Society — Melanoma risk factors", "url": "https://www.cancer.org/cancer/types/melanoma-skin-cancer/causes-risks-prevention/risk-factors.html" }
+    ]
+  },
+  {
+    "id": "how-diagnosed",
+    "type": "topic",
+    "question": "How are skin lesions diagnosed?",
+    "keywords": ["diagnosed", "diagnosis", "dermoscopy", "how is it diagnosed", "biopsy"],
+    "answer": "Dermatologists commonly use dermoscopy — examining the skin with a magnifying, illuminated device called a dermatoscope — to look at patterns invisible to the naked eye. This can improve diagnostic accuracy significantly over visual inspection alone, and suspicious lesions are often confirmed with a biopsy.",
+    "references": [
+      { "label": "DermNet NZ — Dermoscopy", "url": "https://dermnetnz.org/topics/dermoscopy" }
+    ]
+  },
+  {
+    "id": "about-dermascan",
+    "type": "topic",
+    "question": "What does DermaScan do?",
+    "keywords": ["what is dermascan", "about this app", "what does this site do", "how accurate", "is this a diagnosis"],
+    "answer": "DermaScan lets you upload or capture a photo of a skin concern and get an AI-assisted estimate of likely conditions, plus a searchable library of ISIC 2019 skin disease categories. It is for education and awareness only — not a medical diagnosis. Always confirm any concern with a licensed dermatologist.",
+    "references": [],
+    "internalLinks": [
+      { "label": "About DermaScan", "to": "/about" },
+      { "label": "Browse the Disease Library", "to": "/diseases" }
+    ]
+  }
+]

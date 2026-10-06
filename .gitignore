@@ -1,0 +1,18 @@
+node_modules/
+dist/
+backend/.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Secrets — .env.example is committed, .env is not.
+.env
+backend/.env
+
+# Trained weights. 172 MB between them, which is over GitHub's 100 MB per-file
+# limit for best_model.pth, so they are distributed separately rather than
+# committed. Keep a copy somewhere other than this folder.
+*.pth
+
+# Test fixtures that are real patient photos.
+backend/tests/fixtures/
